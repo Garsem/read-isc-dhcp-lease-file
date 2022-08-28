@@ -1,0 +1,1408 @@
+# The format of this file is documented in the dhcpd.leases(5) manual page.
+# This lease file was written by isc-dhcp-4.4.1
+
+# authoring-byte-order entry is generated, DO NOT DELETE
+authoring-byte-order little-endian;
+
+lease 10.10.22.35 {
+  starts epoch 1660421121; # Sat Aug 13 22:05:21 2022
+  ends epoch 1660421721; # Sat Aug 13 22:15:21 2022
+  tstp epoch 1660421721; # Sat Aug 13 22:15:21 2022
+  cltt epoch 1660421121; # Sat Aug 13 22:05:21 2022
+  binding state free;
+  hardware ethernet d4:f0:57:b1:7e:a8;
+}
+lease 10.10.22.154 {
+  starts epoch 1660421629; # Sat Aug 13 22:13:49 2022
+  ends epoch 1660422229; # Sat Aug 13 22:23:49 2022
+  tstp epoch 1660422229; # Sat Aug 13 22:23:49 2022
+  cltt epoch 1660421629; # Sat Aug 13 22:13:49 2022
+  binding state free;
+  hardware ethernet 00:0c:29:73:d7:90;
+  uid "\001\000\014)s\327\220";
+}
+lease 10.10.22.191 {
+  starts epoch 1660421229; # Sat Aug 13 22:07:09 2022
+  ends epoch 1660428429; # Sun Aug 14 00:07:09 2022
+  tstp epoch 1660428429; # Sun Aug 14 00:07:09 2022
+  cltt epoch 1660421230; # Sat Aug 13 22:07:10 2022
+  binding state free;
+  hardware ethernet a0:78:17:78:a3:d5;
+  uid "\001\240x\027x\243\325";
+}
+lease 10.10.22.40 {
+  starts epoch 1660460084; # Sun Aug 14 08:54:44 2022
+  ends epoch 1660460684; # Sun Aug 14 09:04:44 2022
+  tstp epoch 1660460684; # Sun Aug 14 09:04:44 2022
+  cltt epoch 1660460084; # Sun Aug 14 08:54:44 2022
+  binding state free;
+  hardware ethernet e4:04:39:ab:c5:70;
+  set vendor-class-identifier = "dhcpcd-5.5.6";
+}
+lease 10.10.22.30 {
+  starts epoch 1660473146; # Sun Aug 14 12:32:26 2022
+  ends epoch 1660473266; # Sun Aug 14 12:34:26 2022
+  cltt epoch 1660473146; # Sun Aug 14 12:32:26 2022
+  binding state free;
+  hardware ethernet 9c:c9:eb:15:ee:1f;
+}
+lease 10.10.22.34 {
+  starts epoch 1660472923; # Sun Aug 14 12:28:43 2022
+  ends epoch 1660473523; # Sun Aug 14 12:38:43 2022
+  cltt epoch 1660472923; # Sun Aug 14 12:28:43 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 42:2c:8f:95:42:78;
+  uid "\001B,\217\225Bx";
+  set vendor-class-identifier = "android-dhcp-12";
+  client-hostname "Zenfone-8";
+}
+lease 10.10.22.152 {
+  starts epoch 1660472929; # Sun Aug 14 12:28:49 2022
+  ends epoch 1660473529; # Sun Aug 14 12:38:49 2022
+  cltt epoch 1660472929; # Sun Aug 14 12:28:49 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 7c:10:c9:89:74:b2;
+  uid "\001|\020\311\211t\262";
+  set vendor-class-identifier = "android-dhcp-12";
+  client-hostname "Zenfone-8";
+}
+lease 10.10.22.129 {
+  starts epoch 1660472957; # Sun Aug 14 12:29:17 2022
+  ends epoch 1660473557; # Sun Aug 14 12:39:17 2022
+  cltt epoch 1660472957; # Sun Aug 14 12:29:17 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f8:32:e4:bb:52:7b;
+  uid "\001\3702\344\273R{";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "Gamer-PC";
+}
+lease 10.10.22.37 {
+  starts epoch 1660472960; # Sun Aug 14 12:29:20 2022
+  ends epoch 1660473560; # Sun Aug 14 12:39:20 2022
+  cltt epoch 1660472960; # Sun Aug 14 12:29:20 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 80:c7:55:ec:65:b7;
+  uid "\001\200\307U\354e\267";
+  client-hostname "DMR-UBC90";
+}
+lease 10.10.22.147 {
+  starts epoch 1660473038; # Sun Aug 14 12:30:38 2022
+  ends epoch 1660473638; # Sun Aug 14 12:40:38 2022
+  cltt epoch 1660473038; # Sun Aug 14 12:30:38 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 7c:10:c9:74:be:c0;
+  uid "\001|\020\311t\276\300";
+  set vendor-class-identifier = "udhcp 1.24.1";
+}
+lease 10.10.22.36 {
+  starts epoch 1660473063; # Sun Aug 14 12:31:03 2022
+  ends epoch 1660473663; # Sun Aug 14 12:41:03 2022
+  cltt epoch 1660473063; # Sun Aug 14 12:31:03 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d6:aa:03:74:d5;
+  uid "\001\004\326\252\003t\325";
+  set vendor-class-identifier = "android-dhcp-9";
+  client-hostname "Galaxy-Note-8";
+}
+lease 10.10.22.70 {
+  starts epoch 1660473096; # Sun Aug 14 12:31:36 2022
+  ends epoch 1660473696; # Sun Aug 14 12:41:36 2022
+  cltt epoch 1660473096; # Sun Aug 14 12:31:36 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:c0:5b:80:93:eb;
+  uid "\001\004\300[\200\223\353";
+  set vendor-class-identifier = "udhcp 1.21.1";
+  client-hostname "Tigo";
+}
+lease 10.10.22.199 {
+  starts epoch 1660473129; # Sun Aug 14 12:32:09 2022
+  ends epoch 1660473729; # Sun Aug 14 12:42:09 2022
+  cltt epoch 1660473129; # Sun Aug 14 12:32:09 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 5c:70:a3:4a:7c:05;
+  uid "\001\\p\243J|\005";
+  set vendor-class-identifier = "android-dhcp-8.0.0";
+  client-hostname "android-d82dc3639e4ad326";
+}
+lease 10.10.22.183 {
+  starts epoch 1660473140; # Sun Aug 14 12:32:20 2022
+  ends epoch 1660473740; # Sun Aug 14 12:42:20 2022
+  cltt epoch 1660473140; # Sun Aug 14 12:32:20 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:85:80:77:0b:52;
+  uid "\001\214\205\200w\013R";
+  set vendor-class-identifier = "udhcp 1.12.1";
+}
+lease 10.10.22.62 {
+  starts epoch 1660473140; # Sun Aug 14 12:32:20 2022
+  ends epoch 1660473740; # Sun Aug 14 12:42:20 2022
+  cltt epoch 1660473140; # Sun Aug 14 12:32:20 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet b8:e9:37:eb:92:7e;
+  uid "\001\270\3517\353\222~";
+  set vendor-class-identifier = "udhcp 0.9.8";
+  client-hostname "SonosZP";
+}
+lease 10.10.22.38 {
+  starts epoch 1660473140; # Sun Aug 14 12:32:20 2022
+  ends epoch 1660473740; # Sun Aug 14 12:42:20 2022
+  cltt epoch 1660473140; # Sun Aug 14 12:32:20 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:b0:2d:02:d5:9b;
+  uid "\001H\260-\002\325\233";
+  set vendor-class-identifier = "android-dhcp-9";
+}
+lease 10.10.22.88 {
+  starts epoch 1660473172; # Sun Aug 14 12:32:52 2022
+  ends epoch 1660473772; # Sun Aug 14 12:42:52 2022
+  cltt epoch 1660473172; # Sun Aug 14 12:32:52 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f8:1a:67:e6:2a:d9;
+  uid "\001\370\032g\346*\331";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "TL-MR3420";
+}
+lease 10.10.22.176 {
+  starts epoch 1660473191; # Sun Aug 14 12:33:11 2022
+  ends epoch 1660473791; # Sun Aug 14 12:43:11 2022
+  cltt epoch 1660473191; # Sun Aug 14 12:33:11 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d9:f5:f7:1c:ca;
+  uid "\001\004\331\365\367\034\312";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "Linchen";
+}
+lease 10.10.22.39 {
+  starts epoch 1660473206; # Sun Aug 14 12:33:26 2022
+  ends epoch 1660473806; # Sun Aug 14 12:43:26 2022
+  cltt epoch 1660473206; # Sun Aug 14 12:33:26 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 80:c7:55:b5:fc:8c;
+  uid "\001\200\307U\265\374\214";
+  client-hostname "COM-MID1";
+}
+lease 10.10.22.64 {
+  starts epoch 1660470580; # Sun Aug 14 11:49:40 2022
+  ends epoch 1660477780; # Sun Aug 14 13:49:40 2022
+  cltt epoch 1660470580; # Sun Aug 14 11:49:40 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 40:cb:c0:d9:30:25;
+  uid "\001@\313\300\3310%";
+  client-hostname "Bedroom";
+}
+lease 10.10.22.185 {
+  starts epoch 1660471638; # Sun Aug 14 12:07:18 2022
+  ends epoch 1660478838; # Sun Aug 14 14:07:18 2022
+  cltt epoch 1660471638; # Sun Aug 14 12:07:18 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 14:98:77:42:5d:3a;
+  uid "\001\024\230wB]:";
+  client-hostname "Mini-von-Rene";
+}
+lease 10.10.22.41 {
+  starts epoch 1660472265; # Sun Aug 14 12:17:45 2022
+  ends epoch 1660479465; # Sun Aug 14 14:17:45 2022
+  cltt epoch 1660472265; # Sun Aug 14 12:17:45 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 1e:78:29:0b:54:2d;
+  uid "\001\036x)\013T-";
+}
+lease 10.10.22.31 {
+  starts epoch 1660414758; # Sat Aug 13 20:19:18 2022
+  ends epoch 1660501158; # Sun Aug 14 20:19:18 2022
+  cltt epoch 1660414758; # Sat Aug 13 20:19:18 2022
+  binding state abandoned;
+  next binding state free;
+  rewind binding state free;
+}
+lease 10.10.22.32 {
+  starts epoch 1660414762; # Sat Aug 13 20:19:22 2022
+  ends epoch 1660501162; # Sun Aug 14 20:19:22 2022
+  cltt epoch 1660414762; # Sat Aug 13 20:19:22 2022
+  binding state abandoned;
+  next binding state free;
+  rewind binding state free;
+}
+lease 10.10.22.33 {
+  starts epoch 1660414770; # Sat Aug 13 20:19:30 2022
+  ends epoch 1660501170; # Sun Aug 14 20:19:30 2022
+  cltt epoch 1660414770; # Sat Aug 13 20:19:30 2022
+  binding state abandoned;
+  next binding state free;
+  rewind binding state free;
+}
+lease 10.10.22.34 {
+  starts epoch 1660473223; # Sun Aug 14 12:33:43 2022
+  ends epoch 1660473823; # Sun Aug 14 12:43:43 2022
+  cltt epoch 1660473223; # Sun Aug 14 12:33:43 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 42:2c:8f:95:42:78;
+  uid "\001B,\217\225Bx";
+  set vendor-class-identifier = "android-dhcp-12";
+  client-hostname "Zenfone-8";
+}
+lease 10.10.22.152 {
+  starts epoch 1660473230; # Sun Aug 14 12:33:50 2022
+  ends epoch 1660473830; # Sun Aug 14 12:43:50 2022
+  cltt epoch 1660473230; # Sun Aug 14 12:33:50 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 7c:10:c9:89:74:b2;
+  uid "\001|\020\311\211t\262";
+  set vendor-class-identifier = "android-dhcp-12";
+  client-hostname "Zenfone-8";
+}
+lease 10.10.22.129 {
+  starts epoch 1660473258; # Sun Aug 14 12:34:18 2022
+  ends epoch 1660473858; # Sun Aug 14 12:44:18 2022
+  cltt epoch 1660473258; # Sun Aug 14 12:34:18 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f8:32:e4:bb:52:7b;
+  uid "\001\3702\344\273R{";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "Gamer-PC";
+}
+lease 10.10.22.37 {
+  starts epoch 1660473261; # Sun Aug 14 12:34:21 2022
+  ends epoch 1660473861; # Sun Aug 14 12:44:21 2022
+  cltt epoch 1660473261; # Sun Aug 14 12:34:21 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 80:c7:55:ec:65:b7;
+  uid "\001\200\307U\354e\267";
+  client-hostname "DMR-UBC90";
+}
+lease 10.10.22.147 {
+  starts epoch 1660473338; # Sun Aug 14 12:35:38 2022
+  ends epoch 1660473938; # Sun Aug 14 12:45:38 2022
+  cltt epoch 1660473338; # Sun Aug 14 12:35:38 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 7c:10:c9:74:be:c0;
+  uid "\001|\020\311t\276\300";
+  set vendor-class-identifier = "udhcp 1.24.1";
+}
+lease 10.10.22.36 {
+  starts epoch 1660473351; # Sun Aug 14 12:35:51 2022
+  ends epoch 1660473951; # Sun Aug 14 12:45:51 2022
+  cltt epoch 1660473351; # Sun Aug 14 12:35:51 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d6:aa:03:74:d5;
+  uid "\001\004\326\252\003t\325";
+  set vendor-class-identifier = "android-dhcp-9";
+  client-hostname "Galaxy-Note-8";
+}
+lease 10.10.22.70 {
+  starts epoch 1660473399; # Sun Aug 14 12:36:39 2022
+  ends epoch 1660473999; # Sun Aug 14 12:46:39 2022
+  cltt epoch 1660473399; # Sun Aug 14 12:36:39 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:c0:5b:80:93:eb;
+  uid "\001\004\300[\200\223\353";
+  set vendor-class-identifier = "udhcp 1.21.1";
+  client-hostname "Tigo";
+}
+lease 10.10.22.199 {
+  starts epoch 1660473429; # Sun Aug 14 12:37:09 2022
+  ends epoch 1660474029; # Sun Aug 14 12:47:09 2022
+  cltt epoch 1660473429; # Sun Aug 14 12:37:09 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 5c:70:a3:4a:7c:05;
+  uid "\001\\p\243J|\005";
+  set vendor-class-identifier = "android-dhcp-8.0.0";
+  client-hostname "android-d82dc3639e4ad326";
+}
+lease 10.10.22.38 {
+  starts epoch 1660473440; # Sun Aug 14 12:37:20 2022
+  ends epoch 1660474040; # Sun Aug 14 12:47:20 2022
+  cltt epoch 1660473440; # Sun Aug 14 12:37:20 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:b0:2d:02:d5:9b;
+  uid "\001H\260-\002\325\233";
+  set vendor-class-identifier = "android-dhcp-9";
+}
+lease 10.10.22.62 {
+  starts epoch 1660473441; # Sun Aug 14 12:37:21 2022
+  ends epoch 1660474041; # Sun Aug 14 12:47:21 2022
+  cltt epoch 1660473441; # Sun Aug 14 12:37:21 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet b8:e9:37:eb:92:7e;
+  uid "\001\270\3517\353\222~";
+  set vendor-class-identifier = "udhcp 0.9.8";
+  client-hostname "SonosZP";
+}
+lease 10.10.22.183 {
+  starts epoch 1660473441; # Sun Aug 14 12:37:21 2022
+  ends epoch 1660474041; # Sun Aug 14 12:47:21 2022
+  cltt epoch 1660473441; # Sun Aug 14 12:37:21 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:85:80:77:0b:52;
+  uid "\001\214\205\200w\013R";
+  set vendor-class-identifier = "udhcp 1.12.1";
+}
+lease 10.10.22.88 {
+  starts epoch 1660473471; # Sun Aug 14 12:37:51 2022
+  ends epoch 1660474071; # Sun Aug 14 12:47:51 2022
+  cltt epoch 1660473471; # Sun Aug 14 12:37:51 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f8:1a:67:e6:2a:d9;
+  uid "\001\370\032g\346*\331";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "TL-MR3420";
+}
+lease 10.10.22.176 {
+  starts epoch 1660473491; # Sun Aug 14 12:38:11 2022
+  ends epoch 1660474091; # Sun Aug 14 12:48:11 2022
+  cltt epoch 1660473491; # Sun Aug 14 12:38:11 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d9:f5:f7:1c:ca;
+  uid "\001\004\331\365\367\034\312";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "Linchen";
+}
+lease 10.10.22.39 {
+  starts epoch 1660473507; # Sun Aug 14 12:38:27 2022
+  ends epoch 1660474107; # Sun Aug 14 12:48:27 2022
+  cltt epoch 1660473507; # Sun Aug 14 12:38:27 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 80:c7:55:b5:fc:8c;
+  uid "\001\200\307U\265\374\214";
+  client-hostname "COM-MID1";
+}
+lease 10.10.22.34 {
+  starts epoch 1660473524; # Sun Aug 14 12:38:44 2022
+  ends epoch 1660474124; # Sun Aug 14 12:48:44 2022
+  cltt epoch 1660473524; # Sun Aug 14 12:38:44 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 42:2c:8f:95:42:78;
+  uid "\001B,\217\225Bx";
+  set vendor-class-identifier = "android-dhcp-12";
+  client-hostname "Zenfone-8";
+}
+lease 10.10.22.152 {
+  starts epoch 1660473531; # Sun Aug 14 12:38:51 2022
+  ends epoch 1660474131; # Sun Aug 14 12:48:51 2022
+  cltt epoch 1660473531; # Sun Aug 14 12:38:51 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 7c:10:c9:89:74:b2;
+  uid "\001|\020\311\211t\262";
+  set vendor-class-identifier = "android-dhcp-12";
+  client-hostname "Zenfone-8";
+}
+lease 10.10.22.129 {
+  starts epoch 1660473558; # Sun Aug 14 12:39:18 2022
+  ends epoch 1660474158; # Sun Aug 14 12:49:18 2022
+  cltt epoch 1660473558; # Sun Aug 14 12:39:18 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f8:32:e4:bb:52:7b;
+  uid "\001\3702\344\273R{";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "Gamer-PC";
+}
+lease 10.10.22.37 {
+  starts epoch 1660473561; # Sun Aug 14 12:39:21 2022
+  ends epoch 1660474161; # Sun Aug 14 12:49:21 2022
+  cltt epoch 1660473561; # Sun Aug 14 12:39:21 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 80:c7:55:ec:65:b7;
+  uid "\001\200\307U\354e\267";
+  client-hostname "DMR-UBC90";
+}
+lease 10.10.22.147 {
+  starts epoch 1660473638; # Sun Aug 14 12:40:38 2022
+  ends epoch 1660474238; # Sun Aug 14 12:50:38 2022
+  cltt epoch 1660473638; # Sun Aug 14 12:40:38 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 7c:10:c9:74:be:c0;
+  uid "\001|\020\311t\276\300";
+  set vendor-class-identifier = "udhcp 1.24.1";
+}
+lease 10.10.22.36 {
+  starts epoch 1660473640; # Sun Aug 14 12:40:40 2022
+  ends epoch 1660474240; # Sun Aug 14 12:50:40 2022
+  cltt epoch 1660473640; # Sun Aug 14 12:40:40 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d6:aa:03:74:d5;
+  uid "\001\004\326\252\003t\325";
+  set vendor-class-identifier = "android-dhcp-9";
+  client-hostname "Galaxy-Note-8";
+}
+lease 10.10.22.70 {
+  starts epoch 1660473702; # Sun Aug 14 12:41:42 2022
+  ends epoch 1660474302; # Sun Aug 14 12:51:42 2022
+  cltt epoch 1660473702; # Sun Aug 14 12:41:42 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:c0:5b:80:93:eb;
+  uid "\001\004\300[\200\223\353";
+  set vendor-class-identifier = "udhcp 1.21.1";
+  client-hostname "Tigo";
+}
+lease 10.10.22.199 {
+  starts epoch 1660473730; # Sun Aug 14 12:42:10 2022
+  ends epoch 1660474330; # Sun Aug 14 12:52:10 2022
+  cltt epoch 1660473730; # Sun Aug 14 12:42:10 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 5c:70:a3:4a:7c:05;
+  uid "\001\\p\243J|\005";
+  set vendor-class-identifier = "android-dhcp-8.0.0";
+  client-hostname "android-d82dc3639e4ad326";
+}
+lease 10.10.22.38 {
+  starts epoch 1660473740; # Sun Aug 14 12:42:20 2022
+  ends epoch 1660474340; # Sun Aug 14 12:52:20 2022
+  cltt epoch 1660473740; # Sun Aug 14 12:42:20 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:b0:2d:02:d5:9b;
+  uid "\001H\260-\002\325\233";
+  set vendor-class-identifier = "android-dhcp-9";
+}
+lease 10.10.22.62 {
+  starts epoch 1660473740; # Sun Aug 14 12:42:20 2022
+  ends epoch 1660474340; # Sun Aug 14 12:52:20 2022
+  cltt epoch 1660473740; # Sun Aug 14 12:42:20 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet b8:e9:37:eb:92:7e;
+  uid "\001\270\3517\353\222~";
+  set vendor-class-identifier = "udhcp 0.9.8";
+  client-hostname "SonosZP";
+}
+lease 10.10.22.183 {
+  starts epoch 1660473743; # Sun Aug 14 12:42:23 2022
+  ends epoch 1660474343; # Sun Aug 14 12:52:23 2022
+  cltt epoch 1660473743; # Sun Aug 14 12:42:23 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:85:80:77:0b:52;
+  uid "\001\214\205\200w\013R";
+  set vendor-class-identifier = "udhcp 1.12.1";
+}
+lease 10.10.22.88 {
+  starts epoch 1660473771; # Sun Aug 14 12:42:51 2022
+  ends epoch 1660474371; # Sun Aug 14 12:52:51 2022
+  cltt epoch 1660473771; # Sun Aug 14 12:42:51 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f8:1a:67:e6:2a:d9;
+  uid "\001\370\032g\346*\331";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "TL-MR3420";
+}
+lease 10.10.22.176 {
+  starts epoch 1660473791; # Sun Aug 14 12:43:11 2022
+  ends epoch 1660474391; # Sun Aug 14 12:53:11 2022
+  cltt epoch 1660473791; # Sun Aug 14 12:43:11 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d9:f5:f7:1c:ca;
+  uid "\001\004\331\365\367\034\312";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "Linchen";
+}
+lease 10.10.22.39 {
+  starts epoch 1660473807; # Sun Aug 14 12:43:27 2022
+  ends epoch 1660474407; # Sun Aug 14 12:53:27 2022
+  cltt epoch 1660473807; # Sun Aug 14 12:43:27 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 80:c7:55:b5:fc:8c;
+  uid "\001\200\307U\265\374\214";
+  client-hostname "COM-MID1";
+}
+lease 10.10.22.34 {
+  starts epoch 1660473825; # Sun Aug 14 12:43:45 2022
+  ends epoch 1660474425; # Sun Aug 14 12:53:45 2022
+  cltt epoch 1660473825; # Sun Aug 14 12:43:45 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 42:2c:8f:95:42:78;
+  uid "\001B,\217\225Bx";
+  set vendor-class-identifier = "android-dhcp-12";
+  client-hostname "Zenfone-8";
+}
+lease 10.10.22.152 {
+  starts epoch 1660473832; # Sun Aug 14 12:43:52 2022
+  ends epoch 1660474432; # Sun Aug 14 12:53:52 2022
+  cltt epoch 1660473832; # Sun Aug 14 12:43:52 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 7c:10:c9:89:74:b2;
+  uid "\001|\020\311\211t\262";
+  set vendor-class-identifier = "android-dhcp-12";
+  client-hostname "Zenfone-8";
+}
+lease 10.10.22.129 {
+  starts epoch 1660473858; # Sun Aug 14 12:44:18 2022
+  ends epoch 1660474458; # Sun Aug 14 12:54:18 2022
+  cltt epoch 1660473858; # Sun Aug 14 12:44:18 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f8:32:e4:bb:52:7b;
+  uid "\001\3702\344\273R{";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "Gamer-PC";
+}
+lease 10.10.22.37 {
+  starts epoch 1660473861; # Sun Aug 14 12:44:21 2022
+  ends epoch 1660474461; # Sun Aug 14 12:54:21 2022
+  cltt epoch 1660473861; # Sun Aug 14 12:44:21 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 80:c7:55:ec:65:b7;
+  uid "\001\200\307U\354e\267";
+  client-hostname "DMR-UBC90";
+}
+lease 10.10.22.36 {
+  starts epoch 1660473929; # Sun Aug 14 12:45:29 2022
+  ends epoch 1660474529; # Sun Aug 14 12:55:29 2022
+  cltt epoch 1660473929; # Sun Aug 14 12:45:29 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d6:aa:03:74:d5;
+  uid "\001\004\326\252\003t\325";
+  set vendor-class-identifier = "android-dhcp-9";
+  client-hostname "Galaxy-Note-8";
+}
+lease 10.10.22.147 {
+  starts epoch 1660473938; # Sun Aug 14 12:45:38 2022
+  ends epoch 1660474538; # Sun Aug 14 12:55:38 2022
+  cltt epoch 1660473938; # Sun Aug 14 12:45:38 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 7c:10:c9:74:be:c0;
+  uid "\001|\020\311t\276\300";
+  set vendor-class-identifier = "udhcp 1.24.1";
+}
+lease 10.10.22.70 {
+  starts epoch 1660474004; # Sun Aug 14 12:46:44 2022
+  ends epoch 1660474604; # Sun Aug 14 12:56:44 2022
+  cltt epoch 1660474004; # Sun Aug 14 12:46:44 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:c0:5b:80:93:eb;
+  uid "\001\004\300[\200\223\353";
+  set vendor-class-identifier = "udhcp 1.21.1";
+  client-hostname "Tigo";
+}
+lease 10.10.22.199 {
+  starts epoch 1660474030; # Sun Aug 14 12:47:10 2022
+  ends epoch 1660474630; # Sun Aug 14 12:57:10 2022
+  cltt epoch 1660474030; # Sun Aug 14 12:47:10 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 5c:70:a3:4a:7c:05;
+  uid "\001\\p\243J|\005";
+  set vendor-class-identifier = "android-dhcp-8.0.0";
+  client-hostname "android-d82dc3639e4ad326";
+}
+lease 10.10.22.38 {
+  starts epoch 1660474040; # Sun Aug 14 12:47:20 2022
+  ends epoch 1660474640; # Sun Aug 14 12:57:20 2022
+  cltt epoch 1660474040; # Sun Aug 14 12:47:20 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:b0:2d:02:d5:9b;
+  uid "\001H\260-\002\325\233";
+  set vendor-class-identifier = "android-dhcp-9";
+}
+lease 10.10.22.62 {
+  starts epoch 1660474041; # Sun Aug 14 12:47:21 2022
+  ends epoch 1660474641; # Sun Aug 14 12:57:21 2022
+  cltt epoch 1660474041; # Sun Aug 14 12:47:21 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet b8:e9:37:eb:92:7e;
+  uid "\001\270\3517\353\222~";
+  set vendor-class-identifier = "udhcp 0.9.8";
+  client-hostname "SonosZP";
+}
+lease 10.10.22.183 {
+  starts epoch 1660474044; # Sun Aug 14 12:47:24 2022
+  ends epoch 1660474644; # Sun Aug 14 12:57:24 2022
+  cltt epoch 1660474044; # Sun Aug 14 12:47:24 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:85:80:77:0b:52;
+  uid "\001\214\205\200w\013R";
+  set vendor-class-identifier = "udhcp 1.12.1";
+}
+lease 10.10.22.88 {
+  starts epoch 1660474071; # Sun Aug 14 12:47:51 2022
+  ends epoch 1660474671; # Sun Aug 14 12:57:51 2022
+  cltt epoch 1660474071; # Sun Aug 14 12:47:51 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f8:1a:67:e6:2a:d9;
+  uid "\001\370\032g\346*\331";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "TL-MR3420";
+}
+lease 10.10.22.176 {
+  starts epoch 1660474091; # Sun Aug 14 12:48:11 2022
+  ends epoch 1660474691; # Sun Aug 14 12:58:11 2022
+  cltt epoch 1660474091; # Sun Aug 14 12:48:11 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d9:f5:f7:1c:ca;
+  uid "\001\004\331\365\367\034\312";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "Linchen";
+}
+lease 10.10.22.39 {
+  starts epoch 1660474107; # Sun Aug 14 12:48:27 2022
+  ends epoch 1660474707; # Sun Aug 14 12:58:27 2022
+  cltt epoch 1660474107; # Sun Aug 14 12:48:27 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 80:c7:55:b5:fc:8c;
+  uid "\001\200\307U\265\374\214";
+  client-hostname "COM-MID1";
+}
+lease 10.10.22.34 {
+  starts epoch 1660474126; # Sun Aug 14 12:48:46 2022
+  ends epoch 1660474726; # Sun Aug 14 12:58:46 2022
+  cltt epoch 1660474126; # Sun Aug 14 12:48:46 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 42:2c:8f:95:42:78;
+  uid "\001B,\217\225Bx";
+  set vendor-class-identifier = "android-dhcp-12";
+  client-hostname "Zenfone-8";
+}
+lease 10.10.22.152 {
+  starts epoch 1660474133; # Sun Aug 14 12:48:53 2022
+  ends epoch 1660474733; # Sun Aug 14 12:58:53 2022
+  cltt epoch 1660474133; # Sun Aug 14 12:48:53 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 7c:10:c9:89:74:b2;
+  uid "\001|\020\311\211t\262";
+  set vendor-class-identifier = "android-dhcp-12";
+  client-hostname "Zenfone-8";
+}
+lease 10.10.22.129 {
+  starts epoch 1660474157; # Sun Aug 14 12:49:17 2022
+  ends epoch 1660474757; # Sun Aug 14 12:59:17 2022
+  cltt epoch 1660474157; # Sun Aug 14 12:49:17 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f8:32:e4:bb:52:7b;
+  uid "\001\3702\344\273R{";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "Gamer-PC";
+}
+lease 10.10.22.37 {
+  starts epoch 1660474161; # Sun Aug 14 12:49:21 2022
+  ends epoch 1660474761; # Sun Aug 14 12:59:21 2022
+  cltt epoch 1660474161; # Sun Aug 14 12:49:21 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 80:c7:55:ec:65:b7;
+  uid "\001\200\307U\354e\267";
+  client-hostname "DMR-UBC90";
+}
+lease 10.10.22.64 {
+  starts epoch 1660474180; # Sun Aug 14 12:49:40 2022
+  ends epoch 1660481380; # Sun Aug 14 14:49:40 2022
+  cltt epoch 1660474180; # Sun Aug 14 12:49:40 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 40:cb:c0:d9:30:25;
+  uid "\001@\313\300\3310%";
+  client-hostname "Bedroom";
+}
+lease 10.10.22.36 {
+  starts epoch 1660474217; # Sun Aug 14 12:50:17 2022
+  ends epoch 1660474817; # Sun Aug 14 13:00:17 2022
+  cltt epoch 1660474217; # Sun Aug 14 12:50:17 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d6:aa:03:74:d5;
+  uid "\001\004\326\252\003t\325";
+  set vendor-class-identifier = "android-dhcp-9";
+  client-hostname "Galaxy-Note-8";
+}
+lease 10.10.22.147 {
+  starts epoch 1660474238; # Sun Aug 14 12:50:38 2022
+  ends epoch 1660474838; # Sun Aug 14 13:00:38 2022
+  cltt epoch 1660474238; # Sun Aug 14 12:50:38 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 7c:10:c9:74:be:c0;
+  uid "\001|\020\311t\276\300";
+  set vendor-class-identifier = "udhcp 1.24.1";
+}
+lease 10.10.22.70 {
+  starts epoch 1660474307; # Sun Aug 14 12:51:47 2022
+  ends epoch 1660474907; # Sun Aug 14 13:01:47 2022
+  cltt epoch 1660474307; # Sun Aug 14 12:51:47 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:c0:5b:80:93:eb;
+  uid "\001\004\300[\200\223\353";
+  set vendor-class-identifier = "udhcp 1.21.1";
+  client-hostname "Tigo";
+}
+lease 10.10.22.199 {
+  starts epoch 1660474331; # Sun Aug 14 12:52:11 2022
+  ends epoch 1660474931; # Sun Aug 14 13:02:11 2022
+  cltt epoch 1660474331; # Sun Aug 14 12:52:11 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 5c:70:a3:4a:7c:05;
+  uid "\001\\p\243J|\005";
+  set vendor-class-identifier = "android-dhcp-8.0.0";
+  client-hostname "android-d82dc3639e4ad326";
+}
+lease 10.10.22.38 {
+  starts epoch 1660474340; # Sun Aug 14 12:52:20 2022
+  ends epoch 1660474940; # Sun Aug 14 13:02:20 2022
+  cltt epoch 1660474340; # Sun Aug 14 12:52:20 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:b0:2d:02:d5:9b;
+  uid "\001H\260-\002\325\233";
+  set vendor-class-identifier = "android-dhcp-9";
+}
+lease 10.10.22.62 {
+  starts epoch 1660474341; # Sun Aug 14 12:52:21 2022
+  ends epoch 1660474941; # Sun Aug 14 13:02:21 2022
+  cltt epoch 1660474341; # Sun Aug 14 12:52:21 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet b8:e9:37:eb:92:7e;
+  uid "\001\270\3517\353\222~";
+  set vendor-class-identifier = "udhcp 0.9.8";
+  client-hostname "SonosZP";
+}
+lease 10.10.22.183 {
+  starts epoch 1660474346; # Sun Aug 14 12:52:26 2022
+  ends epoch 1660474946; # Sun Aug 14 13:02:26 2022
+  cltt epoch 1660474346; # Sun Aug 14 12:52:26 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:85:80:77:0b:52;
+  uid "\001\214\205\200w\013R";
+  set vendor-class-identifier = "udhcp 1.12.1";
+}
+lease 10.10.22.88 {
+  starts epoch 1660474371; # Sun Aug 14 12:52:51 2022
+  ends epoch 1660474971; # Sun Aug 14 13:02:51 2022
+  cltt epoch 1660474371; # Sun Aug 14 12:52:51 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f8:1a:67:e6:2a:d9;
+  uid "\001\370\032g\346*\331";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "TL-MR3420";
+}
+lease 10.10.22.176 {
+  starts epoch 1660474391; # Sun Aug 14 12:53:11 2022
+  ends epoch 1660474991; # Sun Aug 14 13:03:11 2022
+  cltt epoch 1660474391; # Sun Aug 14 12:53:11 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d9:f5:f7:1c:ca;
+  uid "\001\004\331\365\367\034\312";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "Linchen";
+}
+lease 10.10.22.39 {
+  starts epoch 1660474407; # Sun Aug 14 12:53:27 2022
+  ends epoch 1660475007; # Sun Aug 14 13:03:27 2022
+  cltt epoch 1660474407; # Sun Aug 14 12:53:27 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 80:c7:55:b5:fc:8c;
+  uid "\001\200\307U\265\374\214";
+  client-hostname "COM-MID1";
+}
+lease 10.10.22.34 {
+  starts epoch 1660474427; # Sun Aug 14 12:53:47 2022
+  ends epoch 1660475027; # Sun Aug 14 13:03:47 2022
+  cltt epoch 1660474427; # Sun Aug 14 12:53:47 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 42:2c:8f:95:42:78;
+  uid "\001B,\217\225Bx";
+  set vendor-class-identifier = "android-dhcp-12";
+  client-hostname "Zenfone-8";
+}
+lease 10.10.22.152 {
+  starts epoch 1660474434; # Sun Aug 14 12:53:54 2022
+  ends epoch 1660475034; # Sun Aug 14 13:03:54 2022
+  cltt epoch 1660474434; # Sun Aug 14 12:53:54 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 7c:10:c9:89:74:b2;
+  uid "\001|\020\311\211t\262";
+  set vendor-class-identifier = "android-dhcp-12";
+  client-hostname "Zenfone-8";
+}
+lease 10.10.22.129 {
+  starts epoch 1660474457; # Sun Aug 14 12:54:17 2022
+  ends epoch 1660475057; # Sun Aug 14 13:04:17 2022
+  cltt epoch 1660474457; # Sun Aug 14 12:54:17 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f8:32:e4:bb:52:7b;
+  uid "\001\3702\344\273R{";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "Gamer-PC";
+}
+lease 10.10.22.37 {
+  starts epoch 1660474461; # Sun Aug 14 12:54:21 2022
+  ends epoch 1660475061; # Sun Aug 14 13:04:21 2022
+  cltt epoch 1660474461; # Sun Aug 14 12:54:21 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 80:c7:55:ec:65:b7;
+  uid "\001\200\307U\354e\267";
+  client-hostname "DMR-UBC90";
+}
+lease 10.10.22.36 {
+  starts epoch 1660474505; # Sun Aug 14 12:55:05 2022
+  ends epoch 1660475105; # Sun Aug 14 13:05:05 2022
+  cltt epoch 1660474505; # Sun Aug 14 12:55:05 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d6:aa:03:74:d5;
+  uid "\001\004\326\252\003t\325";
+  set vendor-class-identifier = "android-dhcp-9";
+  client-hostname "Galaxy-Note-8";
+}
+lease 10.10.22.147 {
+  starts epoch 1660474538; # Sun Aug 14 12:55:38 2022
+  ends epoch 1660475138; # Sun Aug 14 13:05:38 2022
+  cltt epoch 1660474538; # Sun Aug 14 12:55:38 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 7c:10:c9:74:be:c0;
+  uid "\001|\020\311t\276\300";
+  set vendor-class-identifier = "udhcp 1.24.1";
+}
+lease 10.10.22.70 {
+  starts epoch 1660474609; # Sun Aug 14 12:56:49 2022
+  ends epoch 1660475209; # Sun Aug 14 13:06:49 2022
+  cltt epoch 1660474609; # Sun Aug 14 12:56:49 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:c0:5b:80:93:eb;
+  uid "\001\004\300[\200\223\353";
+  set vendor-class-identifier = "udhcp 1.21.1";
+  client-hostname "Tigo";
+}
+lease 10.10.22.199 {
+  starts epoch 1660474632; # Sun Aug 14 12:57:12 2022
+  ends epoch 1660475232; # Sun Aug 14 13:07:12 2022
+  cltt epoch 1660474632; # Sun Aug 14 12:57:12 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 5c:70:a3:4a:7c:05;
+  uid "\001\\p\243J|\005";
+  set vendor-class-identifier = "android-dhcp-8.0.0";
+  client-hostname "android-d82dc3639e4ad326";
+}
+lease 10.10.22.38 {
+  starts epoch 1660474640; # Sun Aug 14 12:57:20 2022
+  ends epoch 1660475240; # Sun Aug 14 13:07:20 2022
+  cltt epoch 1660474640; # Sun Aug 14 12:57:20 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:b0:2d:02:d5:9b;
+  uid "\001H\260-\002\325\233";
+  set vendor-class-identifier = "android-dhcp-9";
+}
+lease 10.10.22.62 {
+  starts epoch 1660474640; # Sun Aug 14 12:57:20 2022
+  ends epoch 1660475240; # Sun Aug 14 13:07:20 2022
+  cltt epoch 1660474640; # Sun Aug 14 12:57:20 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet b8:e9:37:eb:92:7e;
+  uid "\001\270\3517\353\222~";
+  set vendor-class-identifier = "udhcp 0.9.8";
+  client-hostname "SonosZP";
+}
+lease 10.10.22.183 {
+  starts epoch 1660474647; # Sun Aug 14 12:57:27 2022
+  ends epoch 1660475247; # Sun Aug 14 13:07:27 2022
+  cltt epoch 1660474647; # Sun Aug 14 12:57:27 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:85:80:77:0b:52;
+  uid "\001\214\205\200w\013R";
+  set vendor-class-identifier = "udhcp 1.12.1";
+}
+lease 10.10.22.88 {
+  starts epoch 1660474672; # Sun Aug 14 12:57:52 2022
+  ends epoch 1660475272; # Sun Aug 14 13:07:52 2022
+  cltt epoch 1660474672; # Sun Aug 14 12:57:52 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f8:1a:67:e6:2a:d9;
+  uid "\001\370\032g\346*\331";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "TL-MR3420";
+}
+lease 10.10.22.176 {
+  starts epoch 1660474691; # Sun Aug 14 12:58:11 2022
+  ends epoch 1660475291; # Sun Aug 14 13:08:11 2022
+  cltt epoch 1660474691; # Sun Aug 14 12:58:11 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d9:f5:f7:1c:ca;
+  uid "\001\004\331\365\367\034\312";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "Linchen";
+}
+lease 10.10.22.39 {
+  starts epoch 1660474707; # Sun Aug 14 12:58:27 2022
+  ends epoch 1660475307; # Sun Aug 14 13:08:27 2022
+  cltt epoch 1660474707; # Sun Aug 14 12:58:27 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 80:c7:55:b5:fc:8c;
+  uid "\001\200\307U\265\374\214";
+  client-hostname "COM-MID1";
+}
+lease 10.10.22.34 {
+  starts epoch 1660474728; # Sun Aug 14 12:58:48 2022
+  ends epoch 1660475328; # Sun Aug 14 13:08:48 2022
+  cltt epoch 1660474728; # Sun Aug 14 12:58:48 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 42:2c:8f:95:42:78;
+  uid "\001B,\217\225Bx";
+  set vendor-class-identifier = "android-dhcp-12";
+  client-hostname "Zenfone-8";
+}
+lease 10.10.22.152 {
+  starts epoch 1660474736; # Sun Aug 14 12:58:56 2022
+  ends epoch 1660475336; # Sun Aug 14 13:08:56 2022
+  cltt epoch 1660474736; # Sun Aug 14 12:58:56 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 7c:10:c9:89:74:b2;
+  uid "\001|\020\311\211t\262";
+  set vendor-class-identifier = "android-dhcp-12";
+  client-hostname "Zenfone-8";
+}
+lease 10.10.22.129 {
+  starts epoch 1660474757; # Sun Aug 14 12:59:17 2022
+  ends epoch 1660475357; # Sun Aug 14 13:09:17 2022
+  cltt epoch 1660474757; # Sun Aug 14 12:59:17 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f8:32:e4:bb:52:7b;
+  uid "\001\3702\344\273R{";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "Gamer-PC";
+}
+lease 10.10.22.37 {
+  starts epoch 1660474762; # Sun Aug 14 12:59:22 2022
+  ends epoch 1660475362; # Sun Aug 14 13:09:22 2022
+  cltt epoch 1660474762; # Sun Aug 14 12:59:22 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 80:c7:55:ec:65:b7;
+  uid "\001\200\307U\354e\267";
+  client-hostname "DMR-UBC90";
+}
+lease 10.10.22.36 {
+  starts epoch 1660474794; # Sun Aug 14 12:59:54 2022
+  ends epoch 1660475394; # Sun Aug 14 13:09:54 2022
+  cltt epoch 1660474794; # Sun Aug 14 12:59:54 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d6:aa:03:74:d5;
+  uid "\001\004\326\252\003t\325";
+  set vendor-class-identifier = "android-dhcp-9";
+  client-hostname "Galaxy-Note-8";
+}
+lease 10.10.22.147 {
+  starts epoch 1660474839; # Sun Aug 14 13:00:39 2022
+  ends epoch 1660475439; # Sun Aug 14 13:10:39 2022
+  cltt epoch 1660474839; # Sun Aug 14 13:00:39 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 7c:10:c9:74:be:c0;
+  uid "\001|\020\311t\276\300";
+  set vendor-class-identifier = "udhcp 1.24.1";
+}
+lease 10.10.22.70 {
+  starts epoch 1660474912; # Sun Aug 14 13:01:52 2022
+  ends epoch 1660475512; # Sun Aug 14 13:11:52 2022
+  cltt epoch 1660474912; # Sun Aug 14 13:01:52 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:c0:5b:80:93:eb;
+  uid "\001\004\300[\200\223\353";
+  set vendor-class-identifier = "udhcp 1.21.1";
+  client-hostname "Tigo";
+}
+lease 10.10.22.199 {
+  starts epoch 1660474932; # Sun Aug 14 13:02:12 2022
+  ends epoch 1660475532; # Sun Aug 14 13:12:12 2022
+  cltt epoch 1660474932; # Sun Aug 14 13:02:12 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 5c:70:a3:4a:7c:05;
+  uid "\001\\p\243J|\005";
+  set vendor-class-identifier = "android-dhcp-8.0.0";
+  client-hostname "android-d82dc3639e4ad326";
+}
+lease 10.10.22.38 {
+  starts epoch 1660474940; # Sun Aug 14 13:02:20 2022
+  ends epoch 1660475540; # Sun Aug 14 13:12:20 2022
+  cltt epoch 1660474940; # Sun Aug 14 13:02:20 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:b0:2d:02:d5:9b;
+  uid "\001H\260-\002\325\233";
+  set vendor-class-identifier = "android-dhcp-9";
+}
+lease 10.10.22.62 {
+  starts epoch 1660474940; # Sun Aug 14 13:02:20 2022
+  ends epoch 1660475540; # Sun Aug 14 13:12:20 2022
+  cltt epoch 1660474940; # Sun Aug 14 13:02:20 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet b8:e9:37:eb:92:7e;
+  uid "\001\270\3517\353\222~";
+  set vendor-class-identifier = "udhcp 0.9.8";
+  client-hostname "SonosZP";
+}
+lease 10.10.22.183 {
+  starts epoch 1660474948; # Sun Aug 14 13:02:28 2022
+  ends epoch 1660475548; # Sun Aug 14 13:12:28 2022
+  cltt epoch 1660474948; # Sun Aug 14 13:02:28 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:85:80:77:0b:52;
+  uid "\001\214\205\200w\013R";
+  set vendor-class-identifier = "udhcp 1.12.1";
+}
+lease 10.10.22.88 {
+  starts epoch 1660474972; # Sun Aug 14 13:02:52 2022
+  ends epoch 1660475572; # Sun Aug 14 13:12:52 2022
+  cltt epoch 1660474972; # Sun Aug 14 13:02:52 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f8:1a:67:e6:2a:d9;
+  uid "\001\370\032g\346*\331";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "TL-MR3420";
+}
+lease 10.10.22.176 {
+  starts epoch 1660474991; # Sun Aug 14 13:03:11 2022
+  ends epoch 1660475591; # Sun Aug 14 13:13:11 2022
+  cltt epoch 1660474991; # Sun Aug 14 13:03:11 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d9:f5:f7:1c:ca;
+  uid "\001\004\331\365\367\034\312";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "Linchen";
+}
+lease 10.10.22.39 {
+  starts epoch 1660475007; # Sun Aug 14 13:03:27 2022
+  ends epoch 1660475607; # Sun Aug 14 13:13:27 2022
+  cltt epoch 1660475007; # Sun Aug 14 13:03:27 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 80:c7:55:b5:fc:8c;
+  uid "\001\200\307U\265\374\214";
+  client-hostname "COM-MID1";
+}
+lease 10.10.22.34 {
+  starts epoch 1660475029; # Sun Aug 14 13:03:49 2022
+  ends epoch 1660475629; # Sun Aug 14 13:13:49 2022
+  cltt epoch 1660475029; # Sun Aug 14 13:03:49 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 42:2c:8f:95:42:78;
+  uid "\001B,\217\225Bx";
+  set vendor-class-identifier = "android-dhcp-12";
+  client-hostname "Zenfone-8";
+}
+lease 10.10.22.152 {
+  starts epoch 1660475037; # Sun Aug 14 13:03:57 2022
+  ends epoch 1660475637; # Sun Aug 14 13:13:57 2022
+  cltt epoch 1660475037; # Sun Aug 14 13:03:57 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 7c:10:c9:89:74:b2;
+  uid "\001|\020\311\211t\262";
+  set vendor-class-identifier = "android-dhcp-12";
+  client-hostname "Zenfone-8";
+}
+lease 10.10.22.129 {
+  starts epoch 1660475057; # Sun Aug 14 13:04:17 2022
+  ends epoch 1660475657; # Sun Aug 14 13:14:17 2022
+  cltt epoch 1660475057; # Sun Aug 14 13:04:17 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f8:32:e4:bb:52:7b;
+  uid "\001\3702\344\273R{";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "Gamer-PC";
+}
+lease 10.10.22.37 {
+  starts epoch 1660475062; # Sun Aug 14 13:04:22 2022
+  ends epoch 1660475662; # Sun Aug 14 13:14:22 2022
+  cltt epoch 1660475062; # Sun Aug 14 13:04:22 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 80:c7:55:ec:65:b7;
+  uid "\001\200\307U\354e\267";
+  client-hostname "DMR-UBC90";
+}
+lease 10.10.22.36 {
+  starts epoch 1660475082; # Sun Aug 14 13:04:42 2022
+  ends epoch 1660475682; # Sun Aug 14 13:14:42 2022
+  cltt epoch 1660475082; # Sun Aug 14 13:04:42 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d6:aa:03:74:d5;
+  uid "\001\004\326\252\003t\325";
+  set vendor-class-identifier = "android-dhcp-9";
+  client-hostname "Galaxy-Note-8";
+}
+lease 10.10.22.147 {
+  starts epoch 1660475139; # Sun Aug 14 13:05:39 2022
+  ends epoch 1660475739; # Sun Aug 14 13:15:39 2022
+  cltt epoch 1660475139; # Sun Aug 14 13:05:39 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 7c:10:c9:74:be:c0;
+  uid "\001|\020\311t\276\300";
+  set vendor-class-identifier = "udhcp 1.24.1";
+}
+lease 10.10.22.70 {
+  starts epoch 1660475214; # Sun Aug 14 13:06:54 2022
+  ends epoch 1660475814; # Sun Aug 14 13:16:54 2022
+  cltt epoch 1660475214; # Sun Aug 14 13:06:54 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:c0:5b:80:93:eb;
+  uid "\001\004\300[\200\223\353";
+  set vendor-class-identifier = "udhcp 1.21.1";
+  client-hostname "Tigo";
+}
+lease 10.10.22.199 {
+  starts epoch 1660475232; # Sun Aug 14 13:07:12 2022
+  ends epoch 1660475832; # Sun Aug 14 13:17:12 2022
+  cltt epoch 1660475232; # Sun Aug 14 13:07:12 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 5c:70:a3:4a:7c:05;
+  uid "\001\\p\243J|\005";
+  set vendor-class-identifier = "android-dhcp-8.0.0";
+  client-hostname "android-d82dc3639e4ad326";
+}
+lease 10.10.22.38 {
+  starts epoch 1660475240; # Sun Aug 14 13:07:20 2022
+  ends epoch 1660475840; # Sun Aug 14 13:17:20 2022
+  cltt epoch 1660475240; # Sun Aug 14 13:07:20 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:b0:2d:02:d5:9b;
+  uid "\001H\260-\002\325\233";
+  set vendor-class-identifier = "android-dhcp-9";
+}
+lease 10.10.22.62 {
+  starts epoch 1660475240; # Sun Aug 14 13:07:20 2022
+  ends epoch 1660475840; # Sun Aug 14 13:17:20 2022
+  cltt epoch 1660475240; # Sun Aug 14 13:07:20 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet b8:e9:37:eb:92:7e;
+  uid "\001\270\3517\353\222~";
+  set vendor-class-identifier = "udhcp 0.9.8";
+  client-hostname "SonosZP";
+}
+lease 10.10.22.183 {
+  starts epoch 1660475250; # Sun Aug 14 13:07:30 2022
+  ends epoch 1660475850; # Sun Aug 14 13:17:30 2022
+  cltt epoch 1660475250; # Sun Aug 14 13:07:30 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:85:80:77:0b:52;
+  uid "\001\214\205\200w\013R";
+  set vendor-class-identifier = "udhcp 1.12.1";
+}
+lease 10.10.22.88 {
+  starts epoch 1660475272; # Sun Aug 14 13:07:52 2022
+  ends epoch 1660475872; # Sun Aug 14 13:17:52 2022
+  cltt epoch 1660475272; # Sun Aug 14 13:07:52 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f8:1a:67:e6:2a:d9;
+  uid "\001\370\032g\346*\331";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "TL-MR3420";
+}
+lease 10.10.22.176 {
+  starts epoch 1660475290; # Sun Aug 14 13:08:10 2022
+  ends epoch 1660475890; # Sun Aug 14 13:18:10 2022
+  cltt epoch 1660475290; # Sun Aug 14 13:08:10 2022
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d9:f5:f7:1c:ca;
+  uid "\001\004\331\365\367\034\312";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "Linchen";
+}

@@ -1,0 +1,427 @@
+lease 10.10.22.146 {
+  starts 1 2022/08/01 10:48:58;
+  ends 1 2022/08/01 12:48:58;
+  cltt 1 2022/08/01 10:48:58;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f4:d4:88:8e:05:b8;
+  uid "\001\364\324\210\216\005\270";
+  client-hostname "Raouls-MBP";
+}
+lease 10.10.22.147 {
+  starts 1 2022/08/01 11:20:33;
+  ends 1 2022/08/01 11:30:33;
+  cltt 1 2022/08/01 11:20:33;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 7c:10:c9:74:be:c0;
+  uid "\001|\020\311t\276\300";
+  set vendor-class-identifier = "udhcp 1.24.1";
+}
+lease 10.10.22.147 {
+  starts 1 2022/08/01 11:25:33;
+  ends 1 2022/08/01 11:35:33;
+  cltt 1 2022/08/01 11:25:33;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 7c:10:c9:74:be:c0;
+  uid "\001|\020\311t\276\300";
+  set vendor-class-identifier = "udhcp 1.24.1";
+}
+lease 10.10.22.147 {
+  starts 1 2022/08/01 11:30:33;
+  ends 1 2022/08/01 11:40:33;
+  cltt 1 2022/08/01 11:30:33;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 7c:10:c9:74:be:c0;
+  uid "\001|\020\311t\276\300";
+  set vendor-class-identifier = "udhcp 1.24.1";
+}
+lease 10.10.22.147 {
+  starts 1 2022/08/01 11:33:04;
+  ends 1 2022/08/01 11:43:04;
+  cltt 1 2022/08/01 11:33:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 7c:10:c9:74:be:c0;
+  uid "\001|\020\311t\276\300";
+  set vendor-class-identifier = "udhcp 1.24.1";
+}
+lease 10.10.22.152 {
+  starts 1 2022/08/01 11:20:09;
+  ends 1 2022/08/01 11:30:09;
+  cltt 1 2022/08/01 11:20:09;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 7c:10:c9:89:74:b2;
+  uid "\001|\020\311\211t\262";
+  set vendor-class-identifier = "android-dhcp-12";
+  client-hostname "Zenfone-8";
+}
+lease 10.10.22.152 {
+  starts 1 2022/08/01 11:25:09;
+  ends 1 2022/08/01 11:35:09;
+  cltt 1 2022/08/01 11:25:09;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 7c:10:c9:89:74:b2;
+  uid "\001|\020\311\211t\262";
+  set vendor-class-identifier = "android-dhcp-12";
+  client-hostname "Zenfone-8";
+}
+lease 10.10.22.152 {
+  starts 1 2022/08/01 11:30:09;
+  ends 1 2022/08/01 11:40:09;
+  cltt 1 2022/08/01 11:30:09;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 7c:10:c9:89:74:b2;
+  uid "\001|\020\311\211t\262";
+  set vendor-class-identifier = "android-dhcp-12";
+  client-hostname "Zenfone-8";
+}
+lease 10.10.22.176 {
+  starts 1 2022/08/01 11:22:45;
+  ends 1 2022/08/01 11:32:45;
+  cltt 1 2022/08/01 11:22:45;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d9:f5:f7:1c:ca;
+  uid "\001\004\331\365\367\034\312";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "Linchen";
+}
+lease 10.10.22.176 {
+  starts 1 2022/08/01 11:27:45;
+  ends 1 2022/08/01 11:37:45;
+  cltt 1 2022/08/01 11:27:45;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d9:f5:f7:1c:ca;
+  uid "\001\004\331\365\367\034\312";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "Linchen";
+}
+lease 10.10.22.176 {
+  starts 1 2022/08/01 11:32:45;
+  ends 1 2022/08/01 11:42:45;
+  cltt 1 2022/08/01 11:32:45;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d9:f5:f7:1c:ca;
+  uid "\001\004\331\365\367\034\312";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "Linchen";
+}
+lease 10.10.22.183 {
+  starts 1 2022/08/01 11:21:43;
+  ends 1 2022/08/01 11:31:43;
+  cltt 1 2022/08/01 11:21:43;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:85:80:77:0b:52;
+  uid "\001\214\205\200w\013R";
+  set vendor-class-identifier = "udhcp 1.12.1";
+}
+lease 10.10.22.183 {
+  starts 1 2022/08/01 11:26:44;
+  ends 1 2022/08/01 11:36:44;
+  cltt 1 2022/08/01 11:26:44;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:85:80:77:0b:52;
+  uid "\001\214\205\200w\013R";
+  set vendor-class-identifier = "udhcp 1.12.1";
+}
+lease 10.10.22.183 {
+  starts 1 2022/08/01 11:31:46;
+  ends 1 2022/08/01 11:41:46;
+  cltt 1 2022/08/01 11:31:46;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:85:80:77:0b:52;
+  uid "\001\214\205\200w\013R";
+  set vendor-class-identifier = "udhcp 1.12.1";
+}
+lease 10.10.22.199 {
+  starts 1 2022/08/01 11:19:23;
+  ends 1 2022/08/01 11:29:23;
+  cltt 1 2022/08/01 11:19:23;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 5c:70:a3:4a:7c:05;
+  uid "\001\\p\243J|\005";
+  set vendor-class-identifier = "android-dhcp-8.0.0";
+  client-hostname "android-d82dc3639e4ad326";
+}
+lease 10.10.22.199 {
+  starts 1 2022/08/01 11:24:24;
+  ends 1 2022/08/01 11:34:24;
+  cltt 1 2022/08/01 11:24:24;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 5c:70:a3:4a:7c:05;
+  uid "\001\\p\243J|\005";
+  set vendor-class-identifier = "android-dhcp-8.0.0";
+  client-hostname "android-d82dc3639e4ad326";
+}
+lease 10.10.22.199 {
+  starts 1 2022/08/01 11:29:25;
+  ends 1 2022/08/01 11:39:25;
+  cltt 1 2022/08/01 11:29:25;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 5c:70:a3:4a:7c:05;
+  uid "\001\\p\243J|\005";
+  set vendor-class-identifier = "android-dhcp-8.0.0";
+  client-hostname "android-d82dc3639e4ad326";
+}
+lease 10.10.22.199 {
+  starts 1 2022/08/01 11:34:26;
+  ends 1 2022/08/01 11:44:26;
+  cltt 1 2022/08/01 11:34:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 5c:70:a3:4a:7c:05;
+  uid "\001\\p\243J|\005";
+  set vendor-class-identifier = "android-dhcp-8.0.0";
+  client-hostname "android-d82dc3639e4ad326";
+}
+lease 10.10.22.31 {
+  starts 1 2022/08/01 11:21:40;
+  ends 1 2022/08/01 11:31:40;
+  cltt 1 2022/08/01 11:21:40;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 80:c7:55:ec:65:b7;
+  uid "\001\200\307U\354e\267";
+  client-hostname "DMR-UBC90";
+}
+lease 10.10.22.31 {
+  starts 1 2022/08/01 11:26:40;
+  ends 1 2022/08/01 11:36:40;
+  cltt 1 2022/08/01 11:26:40;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 80:c7:55:ec:65:b7;
+  uid "\001\200\307U\354e\267";
+  client-hostname "DMR-UBC90";
+}
+lease 10.10.22.31 {
+  starts 1 2022/08/01 11:31:40;
+  ends 1 2022/08/01 11:41:40;
+  cltt 1 2022/08/01 11:31:40;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 80:c7:55:ec:65:b7;
+  uid "\001\200\307U\354e\267";
+  client-hostname "DMR-UBC90";
+}
+lease 10.10.22.32 {
+  starts 1 2022/08/01 11:23:48;
+  ends 1 2022/08/01 11:33:48;
+  cltt 1 2022/08/01 11:23:48;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 80:c7:55:b5:fc:8c;
+  uid "\001\200\307U\265\374\214";
+  client-hostname "COM-MID1";
+}
+lease 10.10.22.32 {
+  starts 1 2022/08/01 11:28:48;
+  ends 1 2022/08/01 11:38:48;
+  cltt 1 2022/08/01 11:28:48;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 80:c7:55:b5:fc:8c;
+  uid "\001\200\307U\265\374\214";
+  client-hostname "COM-MID1";
+}
+lease 10.10.22.32 {
+  starts 1 2022/08/01 11:33:49;
+  ends 1 2022/08/01 11:43:49;
+  cltt 1 2022/08/01 11:33:49;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 80:c7:55:b5:fc:8c;
+  uid "\001\200\307U\265\374\214";
+  client-hostname "COM-MID1";
+}
+lease 10.10.22.33 {
+  starts 1 2022/08/01 11:20:03;
+  ends 1 2022/08/01 11:30:03;
+  cltt 1 2022/08/01 11:20:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:b0:2d:02:d5:9b;
+  uid "\001H\260-\002\325\233";
+  set vendor-class-identifier = "android-dhcp-9";
+}
+lease 10.10.22.33 {
+  starts 1 2022/08/01 11:25:03;
+  ends 1 2022/08/01 11:35:03;
+  cltt 1 2022/08/01 11:25:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:b0:2d:02:d5:9b;
+  uid "\001H\260-\002\325\233";
+  set vendor-class-identifier = "android-dhcp-9";
+}
+lease 10.10.22.33 {
+  starts 1 2022/08/01 11:30:03;
+  ends 1 2022/08/01 11:40:03;
+  cltt 1 2022/08/01 11:30:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:b0:2d:02:d5:9b;
+  uid "\001H\260-\002\325\233";
+  set vendor-class-identifier = "android-dhcp-9";
+}
+lease 10.10.22.36 {
+  starts 1 2022/08/01 11:20:03;
+  ends 1 2022/08/01 11:30:03;
+  cltt 1 2022/08/01 11:20:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d6:aa:03:74:d5;
+  uid "\001\004\326\252\003t\325";
+  set vendor-class-identifier = "android-dhcp-9";
+  client-hostname "Galaxy-Note-8";
+}
+lease 10.10.22.36 {
+  starts 1 2022/08/01 11:24:51;
+  ends 1 2022/08/01 11:34:51;
+  cltt 1 2022/08/01 11:24:51;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d6:aa:03:74:d5;
+  uid "\001\004\326\252\003t\325";
+  set vendor-class-identifier = "android-dhcp-9";
+  client-hostname "Galaxy-Note-8";
+}
+lease 10.10.22.36 {
+  starts 1 2022/08/01 11:29:40;
+  ends 1 2022/08/01 11:39:40;
+  cltt 1 2022/08/01 11:29:40;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d6:aa:03:74:d5;
+  uid "\001\004\326\252\003t\325";
+  set vendor-class-identifier = "android-dhcp-9";
+  client-hostname "Galaxy-Note-8";
+}
+lease 10.10.22.36 {
+  starts 1 2022/08/01 11:34:29;
+  ends 1 2022/08/01 11:44:29;
+  cltt 1 2022/08/01 11:34:29;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d6:aa:03:74:d5;
+  uid "\001\004\326\252\003t\325";
+  set vendor-class-identifier = "android-dhcp-9";
+  client-hostname "Galaxy-Note-8";
+}
+lease 10.10.22.62 {
+  starts 1 2022/08/01 11:20:37;
+  ends 1 2022/08/01 11:30:37;
+  cltt 1 2022/08/01 11:20:37;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet b8:e9:37:eb:92:7e;
+  uid "\001\270\3517\353\222~";
+  set vendor-class-identifier = "udhcp 0.9.8";
+  client-hostname "SonosZP";
+}
+lease 10.10.22.62 {
+  starts 1 2022/08/01 11:25:37;
+  ends 1 2022/08/01 11:35:37;
+  cltt 1 2022/08/01 11:25:37;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet b8:e9:37:eb:92:7e;
+  uid "\001\270\3517\353\222~";
+  set vendor-class-identifier = "udhcp 0.9.8";
+  client-hostname "SonosZP";
+}
+lease 10.10.22.62 {
+  starts 1 2022/08/01 11:30:37;
+  ends 1 2022/08/01 11:40:37;
+  cltt 1 2022/08/01 11:30:37;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet b8:e9:37:eb:92:7e;
+  uid "\001\270\3517\353\222~";
+  set vendor-class-identifier = "udhcp 0.9.8";
+  client-hostname "SonosZP";
+}
+lease 10.10.22.70 {
+  starts 1 2022/08/01 11:21:38;
+  ends 1 2022/08/01 11:31:38;
+  cltt 1 2022/08/01 11:21:38;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:c0:5b:80:93:eb;
+  uid "\001\004\300[\200\223\353";
+  set vendor-class-identifier = "udhcp 1.21.1";
+  client-hostname "Tigo";
+}
+lease 10.10.22.70 {
+  starts 1 2022/08/01 11:26:41;
+  ends 1 2022/08/01 11:36:41;
+  cltt 1 2022/08/01 11:26:41;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:c0:5b:80:93:eb;
+  uid "\001\004\300[\200\223\353";
+  set vendor-class-identifier = "udhcp 1.21.1";
+  client-hostname "Tigo";
+}
+lease 10.10.22.70 {
+  starts 1 2022/08/01 11:31:43;
+  ends 1 2022/08/01 11:41:43;
+  cltt 1 2022/08/01 11:31:43;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:c0:5b:80:93:eb;
+  uid "\001\004\300[\200\223\353";
+  set vendor-class-identifier = "udhcp 1.21.1";
+  client-hostname "Tigo";
+}

@@ -1,0 +1,102 @@
+lease 10.10.22.146 {
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f4:d4:88:8e:05:b8;
+  uid "\001\364\324\210\216\005\270";
+  client-hostname "Raouls-MBP";
+}
+lease 10.10.22.147 {
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 7c:10:c9:74:be:c0;
+  uid "\001|\020\311t\276\300";
+  set vendor-class-identifier = "udhcp 1.24.1";
+}
+lease 10.10.22.152 {
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 7c:10:c9:89:74:b2;
+  uid "\001|\020\311\211t\262";
+  set vendor-class-identifier = "android-dhcp-12";
+  client-hostname "Zenfone-8";
+}
+lease 10.10.22.176 {
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d9:f5:f7:1c:ca;
+  uid "\001\004\331\365\367\034\312";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "Linchen";
+}
+lease 10.10.22.183 {
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 8c:85:80:77:0b:52;
+  uid "\001\214\205\200w\013R";
+  set vendor-class-identifier = "udhcp 1.12.1";
+}
+lease 10.10.22.199 {
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 5c:70:a3:4a:7c:05;
+  uid "\001\\p\243J|\005";
+  set vendor-class-identifier = "android-dhcp-8.0.0";
+  client-hostname "android-d82dc3639e4ad326";
+}
+lease 10.10.22.31 {
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 80:c7:55:ec:65:b7;
+  uid "\001\200\307U\354e\267";
+  client-hostname "DMR-UBC90";
+}
+lease 10.10.22.32 {
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 80:c7:55:b5:fc:8c;
+  uid "\001\200\307U\265\374\214";
+  client-hostname "COM-MID1";
+}
+lease 10.10.22.33 {
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:b0:2d:02:d5:9b;
+  uid "\001H\260-\002\325\233";
+  set vendor-class-identifier = "android-dhcp-9";
+}
+lease 10.10.22.36 {
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:d6:aa:03:74:d5;
+  uid "\001\004\326\252\003t\325";
+  set vendor-class-identifier = "android-dhcp-9";
+  client-hostname "Galaxy-Note-8";
+}
+lease 10.10.22.62 {
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet b8:e9:37:eb:92:7e;
+  uid "\001\270\3517\353\222~";
+  set vendor-class-identifier = "udhcp 0.9.8";
+  client-hostname "SonosZP";
+}
+lease 10.10.22.70 {
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 04:c0:5b:80:93:eb;
+  uid "\001\004\300[\200\223\353";
+  set vendor-class-identifier = "udhcp 1.21.1";
+  client-hostname "Tigo";
+}
